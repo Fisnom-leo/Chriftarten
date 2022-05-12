@@ -3,18 +3,29 @@
     margin: 0;
     box-sizing: border-box;
     background-color: rgb(208, 157, 157);
+
 }
 
-h1{ 
+header{ 
     width: 100%;
     top:0;
     position: fixed;
     text-align: center;
     text-decoration: underline;
     color: rgb(39, 103, 106);
+    background-color: brown;
+    border-radius: 20px;
+    left: 0%;
+  
     
-    
-    
+}
+
+body{
+    padding-left: 80px;
+}
+
+ol{
+    padding-top: 70px;
 }
 
 .dd{
