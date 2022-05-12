@@ -1,0 +1,145 @@
+*{
+    padding: 1em;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(208, 157, 157);
+}
+
+h1{ 
+    width: 100%;
+    top:0;
+    position: fixed;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(39, 103, 106);
+    
+    
+    
+}
+
+.dd{
+    margin: 1%;
+    font-family: 'Playfair Display', serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.kk{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.jj{
+    font-family:cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+.pp{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+.ll{
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+.oo{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.nn{
+    font-family: 'Tapestry', cursive;
+    font-size: xx-large;
+    text-align: center;
+    }
+
+.ff{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.ss{
+    font-family: 'Water Brush', cursive; 
+    font-size: xx-large;
+    text-align: center;
+}
+
+.ää{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.ee{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.uu{
+    font-family: 'Tapestry', cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+.gg{
+    font-family: 'Tapestry', cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+.pp{
+    font-family: 'Permanent Marker', cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+.mm{
+    font-family: 'Amatic SC', cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+.nn{
+    font-family: monospace;
+    font-size: xx-large;
+    text-align: center;
+}
+.yy{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.rr{
+    font-family: 'Source Serif Pro', serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.ii{
+    font-family: 'Amatic SC', cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+.ää{
+    font-family: 'Great Vibes', cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+.vv{
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+/*  font-family: 'Amatic SC', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Hind Siliguri', sans-serif;
+font-family: 'Macondo', cursive;
+font-family: 'Nanum Myeongjo', serif;
+font-family: 'Oleo Script Swash Caps', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Red Hat Display', sans-serif;
+font-family: 'Satisfy', cursive;
+font-family: 'Source Serif Pro', serif;
+font-family: 'Tapestry', cursive;
+font-family: 'Water Brush', cursive;     */
+
